@@ -4,9 +4,9 @@ This repository contains specs for the high availability cluster resource manage
 
 # What is the current version?
 
-Pacemaker 1.1.9
-PCS 0.9.37
-Libqb 0.14.4
+pacemaker 1.1.9  
+pcs 0.9.37  
+libqb 0.14.4
 
 # How to build?
 
